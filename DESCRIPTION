@@ -1,4 +1,4 @@
-Package: regtools-1
+Package: regtools1
 Type: Package
 Title: Some tools for regressions and presentation of regressions results
 Version: 0.2
